@@ -1,12 +1,24 @@
-## Hi there 👋
+# Fade Roleplay - FiveM Server
 
-<!--
+Willkommen bei Fade Roleplay, deinem neuen Zuhause für realistische und spannende Rollenspielerlebnisse auf FiveM!
 
-**Here are some ideas to get you started:**
+## Features
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Realistische Wirtschaft**: Dynamisches Wirtschaftssystem für authentisches Gameplay.
+- **Berufe und Unternehmen**: Wähle aus vielen Berufen oder gründe dein eigenes Unternehmen.
+- **Immersive Skripte**: Hochwertige Skripte für verbessertes Roleplay.
+- **Aktive Community**: Freundliche und hilfsbereite Mitspieler.
+
+## Installation
+
+1. **FiveM herunterladen**: [FiveM](https://fivem.net/)
+2. **Server IP**: fivem.faderp.de.com
+3. **Discord beitreten**: [Discord Link](https://discord.gg/roleplay)
+
+## Kontakt & Support
+
+Bei Fragen oder Problemen tritt unserem [Discord](https://discord.gg/fade-roleplay) bei oder kontaktiere uns per E-Mail: support@faderp.de.
+
+---
+
+Viel Spaß beim Spielen auf Fade Roleplay!
