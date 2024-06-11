@@ -1,4 +1,4 @@
-# Fade Roleplay - FiveM Server
+# Fade Roleplay - Rollenspiel mit Niveau
 
 Willkommen bei Fade Roleplay, deinem neuen Zuhause für realistische und spannende Rollenspielerlebnisse auf FiveM!
 
